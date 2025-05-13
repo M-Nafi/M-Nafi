@@ -50,10 +50,8 @@
 
 <h3>Get in Touch</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/HomieStyle#4983)
-
-[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:nafi-m@gmx.de)
-
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/HomieStyle#4983) ---
+[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:nafi-m@gmx.de) ---
 ![My Skills](https://skillicons.dev/icons?i=linkedin)
 
 
