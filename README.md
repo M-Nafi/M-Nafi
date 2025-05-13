@@ -49,19 +49,13 @@
 
 
 <h3>Get in Touch</h3>
-<div style="display: flex; justify-content: center; align-items: center;">
-  <a href="https://discordapp.com/users/HomieStyle#4983">
-    <img src="https://skillicons.dev/icons?i=discord"/>
-  </a>
 
-  <a href="mailto:nafi-m@gmx.de">
-    <img src="https://skillicons.dev/icons?i=gmail"/>
-  </a>
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/HomieStyle#4983)
 
-  <a href="https://www.linkedin.com/in/nafi" onclick="alert('LinkedIn-Kontakt noch nicht hinterlegt!')">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
-  </a>
-</div>
+[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:nafi-m@gmx.de)
+
+![My Skills](https://skillicons.dev/icons?i=linkedin)
+
 
 ---
   <!-- animierter icons bilder von... -->
