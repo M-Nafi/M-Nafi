@@ -8,7 +8,7 @@
 <br>
   <!-- beschreibung text -->
 <p align="center" style="font-family: 'Fira Code', monospace; font-size: 18px; color: #1E88E5;">
-  <i>I enjoy clean code and coffee...</i><br>
+  <i>I enjoy clean code</i><br>
   <i>Passionate about crafting intuitive UIs with Angular</i><br>
   <i>Building robust backends with Python & Django REST Framework</i><br>
   <i>Always eager to learn and collaborate on exciting projects</i>
