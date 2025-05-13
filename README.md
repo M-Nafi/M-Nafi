@@ -22,9 +22,9 @@
 
 <br><br>
   <!-- skills icons von tanzpfun / github -->
-[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)<br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,angular,ts,sass,py,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,angular,ts,sass,py,django)](https://skillicons.dev)<br>
 
 [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 
